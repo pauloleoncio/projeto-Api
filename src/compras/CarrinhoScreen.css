@@ -1,0 +1,35 @@
+#botoes-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#botoes-nav button {
+  height: 40px;
+  width: 250px;
+}
+
+#section-total {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+#section-total * {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 36px;
+  margin-right: 10px;
+}
+
+#section-total span:last-child {
+  color: red;
+}
+
+table {
+  margin-top:  20px;
+}
+
+footer {
+  margin-top: 50px;
+}

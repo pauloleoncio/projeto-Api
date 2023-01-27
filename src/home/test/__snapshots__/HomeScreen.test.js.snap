@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Após a execução da API, o sistema deve exibir as categorias 1`] = `
+<section
+  data-testid="homescreen"
+>
+  <article>
+    <p>
+      Texto que introduz o negócio e o serviço para o usuário e permite ao usuário navegar para qualquer uma das quatro categorias de produtos.
+    </p>
+  </article>
+  <aside>
+    <a
+      href="/categorias/1"
+    >
+      <div>
+        <h6>
+          Android
+        </h6>
+        <img
+          alt="Android"
+          src="https://lojavirtual-api--tarleylana.repl.co/img/android/android_128x128.png"
+        />
+      </div>
+    </a>
+    <a
+      href="/categorias/2"
+    >
+      <div>
+        <h6>
+          IOS
+        </h6>
+        <img
+          alt="IOS"
+          src="https://lojavirtual-api--tarleylana.repl.co/img/ios/ios_128x128.png"
+        />
+      </div>
+    </a>
+    <a
+      href="/categorias/3"
+    >
+      <div>
+        <h6>
+          Windows
+        </h6>
+        <img
+          alt="Windows"
+          src="https://lojavirtual-api--tarleylana.repl.co/img/windows/windows_128x128.png"
+        />
+      </div>
+    </a>
+    <a
+      href="/categorias/4"
+    >
+      <div>
+        <h6>
+          Linux
+        </h6>
+        <img
+          alt="Linux"
+          src="https://lojavirtual-api--tarleylana.repl.co/img/linux/linux_128x128.png"
+        />
+      </div>
+    </a>
+  </aside>
+</section>
+`;
